@@ -134,7 +134,7 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 <!-- [Insert Figure 5 Here: Case Study of Clinical Agent Interception] -->
 
 <div align="center">
-<img src="images/fig5_casestudy_modified2.png" alt="Case Study" width="900px" />
+<img src="images/fig5_casestudy_modified2.png" alt="Case Study" width="500px" />
 </div>
 
 1. **Attack**: The tool return content is poisoned with injected code `import fake_module` to induce unauthorized execution.
