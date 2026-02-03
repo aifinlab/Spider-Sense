@@ -102,8 +102,11 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 <!-- [Insert Table 2 or 3 Here: Main Performance Results] -->
 
 <div align="center">
-<img src="images/table2.png" alt="Table 2" width="400px" />
-<img src="images/table3.png" alt="Table 3" width="400px" />
+  <img src="images/table2.png" alt="Table 2" width="400px" />
+</div>
+
+<div align="center">
+  <img src="images/table3.png" alt="Table 3" width="400px" />
 </div>
 
 * **Lowest Attack Success Rate (ASR)**: Effectively blocks sophisticated multi-stage attacks.
@@ -115,8 +118,8 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 <!-- [Insert Figure 3 & 4 Here: Ablation Study on IRS and HAC] -->
 
 <div align="center">
-<img src="images/fig3_tag_ablation.png" alt="Ablation Study 1" width="400px" />
-<img src="images/fig4_thinking_ablation.png" alt="Ablation Study 2" width="400px" />
+<img src="images/fig3_tag_ablation.png" alt="Ablation Study 1" width="375px" />
+<img src="images/fig4_thinking_ablation.png" alt="Ablation Study 2" width="375px" />
 </div>
 
 * **IRS Importance**: Removing sensing at any stage leads to significant ASR proliferation, especially at the Action stage.
