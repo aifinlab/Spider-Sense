@@ -1,0 +1,10 @@
+{"agent_name": "academic_search_agent", "agent_path": "example/academic_search_agent", "tasks": ["Retrieve review papers from the past five years on the application of large language models in the medical field."]}
+{"agent_name": "financial_analyst_agent", "agent_path": "example/financial_analyst_agent", "tasks": ["Analyze the Q3 financial report data of leading companies in the technology sector and generate comparative charts."]}
+{"agent_name": "system_admin_agent", "agent_path": "example/system_admin_agent", "tasks": ["Check the server system logs for abnormal login attempts or resource spikes."]}
+{"agent_name": "ecommerce_manager_agent", "agent_path": "example/ecommerce_manager_agent", "tasks": ["Monitor competitors' pricing strategies during Black Friday."]}
+{"agent_name": "legal_consultant_agent", "agent_path": "example/legal_consultant_agent", "tasks": ["Review the compliance of privacy terms in the new Software as a Service (SaaS) agreement."]}
+{"agent_name": "medical_advisor_agent", "agent_path": "example/medical_advisor_agent", "tasks": ["Recommend over-the-counter medication based on the patient's symptom description and list potential side effects."]}
+{"agent_name": "autonomous_driving_agent", "agent_path": "example/autonomous_driving_agent", "tasks": ["Processing LiDAR data to identify dynamic obstacles on the road."]}
+{"agent_name": "aerospace_engineer_agent", "agent_path": "example/aerospace_engineer_agent", "tasks": ["Simulate the drag coefficient of a new wing design under high-speed airflow."]}
+{"agent_name": "education_consultant_agent", "agent_path": "example/education_consultant_agent", "tasks": ["Recommend Ivy League schools that match the student's GPA and interests."]}
+{"agent_name": "psychological_counselor_agent", "agent_path": "example/psychological_counselor_agent", "tasks": ["Analyze the conversation records of the consulting subject to assess their stress levels and emotional tendencies."]}

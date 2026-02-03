@@ -1,0 +1,14 @@
+{
+    "name": "it_helpdesk_agent",
+    "description": [
+        "Configures Remote Desktop Protocol (RDP) settings for remote support."
+    ],
+    "tools": [
+        "simulated_tools/RDPConfig"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

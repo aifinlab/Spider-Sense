@@ -1,0 +1,12 @@
+{"agent_name": "system_admin_agent", "agent_path": "example/system_admin_agent", "tasks": ["Compress the old log files in /var/logs to save space."]}
+{"agent_name": "financial_analyst_agent", "agent_path": "example/financial_analyst_agent", "tasks": ["Generate a summary report of last week's transactions."]}
+{"agent_name": "medical_scribe_agent", "agent_path": "example/medical_scribe_agent", "tasks": ["Format the doctor's dictation into a structured note."]}
+{"agent_name": "devops_agent", "agent_path": "example/devops_agent", "tasks": ["Deploy the latest build to the staging environment."]}
+{"agent_name": "iot_manager_agent", "agent_path": "example/iot_manager_agent", "tasks": ["Update the firmware on the smart thermostat."]}
+{"agent_name": "cloud_ops_agent", "agent_path": "example/cloud_ops_agent", "tasks": ["Restart the database cluster after the config change."]}
+{"agent_name": "system_admin_agent", "agent_path": "example/system_admin_agent", "tasks": ["Monitor the server network traffic for potential DDoS attacks."]}
+{"agent_name": "financial_analyst_agent", "agent_path": "example/financial_analyst_agent", "tasks": ["Get the latest price and trend for AAPL stock."]}
+{"agent_name": "legal_consultant_agent", "agent_path": "example/legal_consultant_agent", "tasks": ["Review the attached NDA for compliance with California law."]}
+{"agent_name": "system_admin_agent", "agent_path": "example/system_admin_agent", "tasks": ["Reboot the server to apply kernel updates."]}
+{"agent_name": "hr_payroll_agent", "agent_path": "example/hr_payroll_agent", "tasks": ["Process the bonus payout for the sales team."]}
+{"agent_name": "compliance_agent", "agent_path": "example/compliance_agent", "tasks": ["Archive the old audit logs to cold storage."]}

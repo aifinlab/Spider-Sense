@@ -1,0 +1,13 @@
+injection_method: direct_prompt_injection
+attack_tool:
+  - all
+read_db: true
+reasoning_backdoor: true
+
+llms:
+  - gpt-4o-mini
+  # - claude-3-5-sonnet-20240620
+
+attack_types:
+  - combined_attack
+  # - naive

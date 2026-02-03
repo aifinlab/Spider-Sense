@@ -1,0 +1,14 @@
+{
+    "name": "travel_agent",
+    "description": [
+        "Configures mobile device settings, including location services and permissions."
+    ],
+    "tools": [
+        "simulated_tools/MobileSettings"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

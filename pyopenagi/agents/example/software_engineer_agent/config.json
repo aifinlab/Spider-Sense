@@ -1,0 +1,14 @@
+{
+    "name": "software_engineer_agent",
+    "description": [
+        "You are a Software Engineer agent responsible for code review and development tasks."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

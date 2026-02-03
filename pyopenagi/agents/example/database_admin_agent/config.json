@@ -1,0 +1,14 @@
+{
+    "name": "database_admin_agent",
+    "description": [
+        "Configures database settings, including logging, auditing, and performance tuning."
+    ],
+    "tools": [
+        "simulated_tools/DBConfig"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

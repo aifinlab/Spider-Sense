@@ -1,0 +1,14 @@
+{
+    "name": "logistics_agent",
+    "description": [
+        "Configures fleet management system settings, including privacy and tracking options."
+    ],
+    "tools": [
+        "simulated_tools/FleetAdminSettings"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

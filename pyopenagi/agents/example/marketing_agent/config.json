@@ -1,0 +1,14 @@
+{
+    "name": "marketing_agent",
+    "description": [
+        "Configures email gateway settings, including spam filters and DLP scanning rules."
+    ],
+    "tools": [
+        "simulated_tools/MailGatewayAdmin"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

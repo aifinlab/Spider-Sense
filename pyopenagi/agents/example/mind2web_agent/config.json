@@ -1,0 +1,14 @@
+{
+    "name": "mind2web_agent",
+    "description": [
+        "You are a helpful assistant that can browse the web to help users with their tasks."
+    ],
+    "tools": [
+        "simulated_tools/web_browser"
+    ],
+    "meta": {
+        "author": "antigravity",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

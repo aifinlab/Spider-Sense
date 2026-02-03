@@ -1,0 +1,14 @@
+{
+    "name": "ci_cd_agent",
+    "description": [
+        "Manages endpoint security software, including antivirus and intrusion detection config."
+    ],
+    "tools": [
+        "simulated_tools/EndpointProtection"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

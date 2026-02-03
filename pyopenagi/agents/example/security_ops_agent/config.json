@@ -1,0 +1,14 @@
+{
+    "name": "security_ops_agent",
+    "description": [
+        "Manages Identity and Access Management (IAM) roles and permissions in the cloud."
+    ],
+    "tools": [
+        "simulated_tools/IAMAdmin"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "mobile_assistant_agent",
+    "description": [
+        "Manages device security settings, including secure enclave and hardware restrictions."
+    ],
+    "tools": [
+        "simulated_tools/DeviceSecurity"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

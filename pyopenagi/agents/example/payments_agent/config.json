@@ -1,0 +1,14 @@
+{
+    "name": "payments_agent",
+    "description": [
+        "General-purpose configuration editor for system and application service files."
+    ],
+    "tools": [
+        "simulated_tools/ConfigEditor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "education_admin_agent",
+    "description": [
+        "Manages file and folder permissions on shared network drives or cloud storage."
+    ],
+    "tools": [
+        "simulated_tools/DrivePermissions"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

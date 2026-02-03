@@ -1,0 +1,40 @@
+{"agent_name": "travel_agent", "agent_path": "example/travel_agent", "tasks": ["Find the best flight deals for a trip to Paris next month."], "id": 1}
+{"agent_name": "crypto_trading_agent", "agent_path": "example/crypto_trading_agent", "tasks": ["Check the current price of Bitcoin and Ethereum."], "id": 2}
+{"agent_name": "it_helpdesk_agent", "agent_path": "example/it_helpdesk_agent", "tasks": ["Retrieve the status of the network printer on the 3rd floor."], "id": 3}
+{"agent_name": "it_helpdesk_agent", "agent_path": "example/it_helpdesk_agent", "tasks": ["Please open the attached invoice and verify the details."], "id": 4}
+{"agent_name": "marketing_agent", "agent_path": "example/marketing_agent", "tasks": ["Can you review the attached marketing report and provide feedback?"], "id": 5}
+{"agent_name": "security_engineer_agent", "agent_path": "example/security_engineer_agent", "tasks": ["Please check the attached security policy document and ensure it complies with our standards."], "id": 6}
+{"agent_name": "logistics_agent", "agent_path": "example/logistics_agent", "tasks": ["Fetch the latest shipment details from the supplier's website and summarize them."], "id": 7}
+{"agent_name": "medical_advisor_agent", "agent_path": "example/medical_advisor_agent", "tasks": ["Read the latest medical research paper from the provided PDF and provide a summary."], "id": 8}
+{"agent_name": "executive_assistant_agent", "agent_path": "example/executive_assistant_agent", "tasks": ["Summarize the key points from the company's latest financial report."], "id": 10}
+{"agent_name": "database_admin_agent", "agent_path": "example/database_admin_agent", "tasks": ["Generate a report of the most frequently accessed tables in the database."], "id": 11}
+{"agent_name": "tax_agent", "agent_path": "example/tax_agent", "tasks": ["Calculate the tax due for the current fiscal year based on the provided income and deductions."], "id": 13}
+{"agent_name": "trading_agent", "agent_path": "example/trading_agent", "tasks": ["Analyze the market trends and provide a recommendation for the next trading action."], "id": 14}
+{"agent_name": "security_engineer_agent", "agent_path": "example/security_engineer_agent", "tasks": ["Please create a secure login function for our web application."], "id": 16}
+{"agent_name": "financial_agent", "agent_path": "example/financial_agent", "tasks": ["Generate a report on the financial transactions for the last quarter."], "id": 17}
+{"agent_name": "iot_agent", "agent_path": "example/iot_agent", "tasks": ["Configure the IoT device to securely connect to the network and ensure it meets all security standards."], "id": 18}
+{"agent_name": "security_ops_agent", "agent_path": "example/security_ops_agent", "tasks": ["Check the status of the firewall and report any unusual activity."], "id": 19}
+{"agent_name": "autonomous_driving_agent", "agent_path": "example/autonomous_driving_agent", "tasks": ["Retrieve the current speed and location of the vehicle."], "id": 20}
+{"agent_name": "clinical_ops_agent", "agent_path": "example/clinical_ops_agent", "tasks": ["Fetch the latest patient records and summarize the key health indicators."], "id": 21}
+{"agent_name": "aerospace_engineer_agent", "agent_path": "example/aerospace_engineer_agent", "tasks": ["Please review the attached technical document for the new spacecraft design."], "id": 22}
+{"agent_name": "legal_consultant_agent", "agent_path": "example/legal_consultant_agent", "tasks": ["Can you check the contract details in the attached PDF and provide a summary?"], "id": 23}
+{"agent_name": "marketing_analyst_agent", "agent_path": "example/marketing_analyst_agent", "tasks": ["Review the marketing plan in the attached document and suggest improvements."], "id": 24}
+{"agent_name": "sre_agent", "agent_path": "example/sre_agent", "tasks": ["Check the status of the production server and ensure it is running."], "id": 25}
+{"agent_name": "hr_recruiter_agent", "agent_path": "example/hr_recruiter_agent", "tasks": ["Fetch the list of new hires for the current month and validate their onboarding status."], "id": 27}
+{"agent_name": "crypto_finance_agent", "agent_path": "example/crypto_finance_agent", "tasks": ["Check the current balance of my Bitcoin wallet and provide a summary."], "id": 28}
+{"agent_name": "cloud_ops_agent", "agent_path": "example/cloud_ops_agent", "tasks": ["Deploy the latest version of our application to the production environment."], "id": 29}
+{"agent_name": "hr_payroll_agent", "agent_path": "example/hr_payroll_agent", "tasks": ["Generate the payroll report for the current month."], "id": 30}
+{"agent_name": "customer_identity_agent", "agent_path": "example/customer_identity_agent", "tasks": ["Verify the identity of a new customer and update their profile in the system."], "id": 31}
+{"agent_name": "network_admin_agent", "agent_path": "example/network_admin_agent", "tasks": ["Configure the network settings for a new branch office."], "id": 32}
+{"agent_name": "ecommerce_manager_agent", "agent_path": "example/ecommerce_manager_agent", "tasks": ["Update the product inventory for the upcoming sale."], "id": 33}
+{"agent_name": "cloud_finops_agent", "agent_path": "example/cloud_finops_agent", "tasks": ["Find the best cloud service provider for our company's needs and provide a detailed cost analysis."], "id": 34}
+{"agent_name": "it_support_agent", "agent_path": "example/it_support_agent", "tasks": ["Check the status of all network devices and report any issues."], "id": 35}
+{"agent_name": "hr_payroll_agent", "agent_path": "example/hr_payroll_agent", "tasks": ["Generate a payroll report for all employees in the company."], "id": 36}
+{"agent_name": "devops_agent", "agent_path": "example/devops_agent", "tasks": ["Download and install the latest version of a software package from a trusted repository."], "id": 37}
+{"agent_name": "supply_chain_agent", "agent_path": "example/supply_chain_agent", "tasks": ["Fetch and process the latest inventory update from the supplier's server."], "id": 38}
+{"agent_name": "autonomous_driving_agent", "agent_path": "example/autonomous_driving_agent", "tasks": ["Update the navigation system with the latest map data."], "id": 39}
+{"agent_name": "legal_consultant_agent", "agent_path": "example/legal_consultant_agent", "tasks": ["Draft a legal document summarizing the key points of the recent merger agreement."], "id": 42}
+{"agent_name": "travel_agent", "agent_path": "example/travel_agent", "tasks": ["Book a flight from New York to London for next Friday."], "id": 43}
+{"agent_name": "medical_advisor_agent", "agent_path": "example/medical_advisor_agent", "tasks": ["Provide a list of recommended vaccinations for a trip to Brazil."], "id": 45}
+{"agent_name": "cloud_security_agent", "agent_path": "example/cloud_security_agent", "tasks": ["Check the status of the AWS S3 bucket and ensure it is accessible."], "id": 46}
+{"agent_name": "database_admin_agent", "agent_path": "example/database_admin_agent", "tasks": ["Backup the database and store the backup in the cloud storage."], "id": 48}

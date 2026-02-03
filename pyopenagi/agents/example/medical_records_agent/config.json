@@ -1,0 +1,14 @@
+{
+    "name": "medical_records_agent",
+    "description": [
+        "You are a specialized agent: medical_records_agent."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

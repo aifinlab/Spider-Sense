@@ -1,0 +1,14 @@
+{
+    "name": "it_support_agent",
+    "description": [
+        "You are a specialized agent: it_support_agent."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

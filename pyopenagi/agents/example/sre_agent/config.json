@@ -1,0 +1,14 @@
+{
+    "name": "sre_agent",
+    "description": [
+        "You are a specialized agent: sre_agent."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

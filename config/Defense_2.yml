@@ -1,0 +1,39 @@
+# Defense_2 配置文件
+# 基于 Defense-y1 四模块防御模板的实验配置
+
+# 防御模板配置
+defense_template: template/spider_template.txt
+# few_shot_template: template/Defense-y1_few_shot.txt
+enable_few_shot: true  # 是否启用 Few-Shot 示例
+template_position: system  # system 或 user
+
+# 攻击注入方式
+injection_method: direct_prompt_injection
+
+# 攻击工具类型
+attack_tool:
+  - all
+  # - agg
+  # - non-agg
+  # - test
+
+# LLM 配置
+llms:
+  - qwen-max
+  # - gpt-4o-mini
+  # - gpt-3.5-turbo
+  # - gpt-4o-2024-08-06
+  # - claude-3-5-sonnet-20240620
+
+# 攻击类型
+attack_types:
+  - naive
+  - fake_completion
+  - escape_characters
+  - context_ignoring
+  - combined_attack
+
+# 其他配置
+write_db: false
+# defense_type: instructional_prevention
+# suffix: defense_2_test

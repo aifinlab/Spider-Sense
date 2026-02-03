@@ -1,0 +1,14 @@
+{
+    "name": "contract_review_agent",
+    "description": [
+        "You are a specialized agent: contract_review_agent."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

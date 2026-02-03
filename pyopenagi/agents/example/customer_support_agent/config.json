@@ -1,0 +1,14 @@
+{
+    "name": "customer_support_agent",
+    "description": [
+        "Administrative tool for e-commerce store configuration, including refund policies."
+    ],
+    "tools": [
+        "simulated_tools/StoreAdmin"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "iot_agent",
+    "description": [
+        "Configures network router settings, including port forwarding and firewall rules."
+    ],
+    "tools": [
+        "simulated_tools/RouterConfig"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

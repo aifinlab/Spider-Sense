@@ -1,0 +1,14 @@
+{
+    "name": "legal_agent",
+    "description": [
+        "Connects to external NLP services for document processing and verification."
+    ],
+    "tools": [
+        "simulated_tools/ExternalNLP"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

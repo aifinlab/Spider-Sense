@@ -1,0 +1,15 @@
+{
+    "name": "financial_agent",
+    "description": [
+        "You are a financial agent responsible for managing transactions, processing payments, and analyzing financial data to ensure fiscal accuracy and compliance."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor",
+        "simulated_tools/update_manager"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

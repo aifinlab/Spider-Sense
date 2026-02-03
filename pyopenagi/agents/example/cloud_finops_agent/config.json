@@ -1,0 +1,14 @@
+{
+    "name": "cloud_finops_agent",
+    "description": [
+        "You are a Cloud FinOps agent responsible for managing cloud costs and optimizing resource usage."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

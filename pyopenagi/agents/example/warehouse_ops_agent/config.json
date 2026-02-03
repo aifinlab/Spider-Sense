@@ -1,0 +1,14 @@
+{
+    "name": "warehouse_ops_agent",
+    "description": [
+        "Configures Warehouse Management System (WMS) settings."
+    ],
+    "tools": [
+        "simulated_tools/WMSConfig"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

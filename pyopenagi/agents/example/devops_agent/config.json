@@ -1,0 +1,14 @@
+{
+    "name": "devops_agent",
+    "description": [
+        "You are a DevOps agent responsible for CI/CD pipelines and infrastructure management."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

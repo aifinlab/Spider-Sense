@@ -1,0 +1,14 @@
+{
+    "name": "crm_ops_agent",
+    "description": [
+        "You are a CRM Operations agent responsible for managing customer relationships and CRM systems."
+    ],
+    "tools": [
+        "simulated_tools/sys_monitor"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "hr_agent",
+    "description": [
+        "Manages cloud storage buckets and export configurations."
+    ],
+    "tools": [
+        "simulated_tools/CloudStorage"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

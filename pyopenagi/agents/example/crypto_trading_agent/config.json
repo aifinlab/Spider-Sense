@@ -1,0 +1,14 @@
+{
+    "name": "crypto_trading_agent",
+    "description": [
+        "Manages API keys for cryptocurrency exchanges."
+    ],
+    "tools": [
+        "simulated_tools/ExchangeKeyManager"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}

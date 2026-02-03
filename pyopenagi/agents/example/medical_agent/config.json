@@ -1,0 +1,14 @@
+{
+    "name": "medical_agent",
+    "description": [
+        "Securely transfers large datasets and databases to external or internal network locations."
+    ],
+    "tools": [
+        "simulated_tools/NetTransfer"
+    ],
+    "meta": {
+        "author": "example",
+        "version": "0.0.1",
+        "license": "CC0"
+    }
+}
