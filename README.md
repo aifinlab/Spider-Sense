@@ -102,11 +102,11 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 <!-- [Insert Table 2 or 3 Here: Main Performance Results] -->
 
 <div align="center">
-  <img src="images/table2.png" alt="Table 2" width="400px" />
+  <img src="images/table2.png" alt="Table 2" width="600px" />
 </div>
 
 <div align="center">
-  <img src="images/table3.png" alt="Table 3" width="400px" />
+  <img src="images/table3.png" alt="Table 3" width="600px" />
 </div>
 
 * **Lowest Attack Success Rate (ASR)**: Effectively blocks sophisticated multi-stage attacks.
