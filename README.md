@@ -119,7 +119,7 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 
 <div align="center">
 <img src="images/fig3_tag_ablation.png" alt="Ablation Study 1" width="375px" />
-<img src="images/fig4_thinking_ablation.png" alt="Ablation Study 2" width="375px" />
+<img src="images/fig4_thinking_ablation.png" alt="Ablation Study 2" width="400px" />
 </div>
 
 * **IRS Importance**: Removing sensing at any stage leads to significant ASR proliferation, especially at the Action stage.
