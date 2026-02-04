@@ -13,10 +13,11 @@
   <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
   <a href="./README_ch.md"><img src="https://img.shields.io/badge/Language-中文版-db7093.svg" alt="Chinese"></a>
+  <br>
+  <br>
+  <b>English</b> | <a href="./README-ch.md">简体中文</a>
 </p>
-<!-- 语言切换链接 -->
-[English](README.md) | [简体中文](README_CN.md)
-</div>
+
 <p align="center">
   <em>An event-driven defense framework allowing agents to maintain latent vigilance and trigger defenses only upon risk perception.</em>
 </p>
