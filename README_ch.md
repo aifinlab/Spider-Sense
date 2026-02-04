@@ -277,9 +277,13 @@ python scripts/run_stage_4_parallel.py \
 
 ### 关于 AIFin Lab
 
-**AIFin Lab** 由上财张立文教授发起，深耕 **AI + 金融 / 统计 / 数据科学** 交叉领域，团队汇聚上财、复旦、东大、CMU、港中文等校前沿学者，打造数据、模型、评测、智能提示全链路体系。欢迎感兴趣的同学加入我们🤝！
+**AIFin Lab** 由上财张立文教授发起，深耕 **AI + 金融 / 统计 / 数据科学** 交叉领域，团队汇聚上财、复旦、东大、CMU、港中文等校前沿学者，打造数据、模型、评测、智能提示全链路体系。我们诚挚欢迎全球优秀的本科、硕士、博士生以及前沿学者加入 **AIFinLab**，共同探索 AI Agent 安全与金融智能的边界！
 
-**邮箱：** [aifinlab.sufe@gmail.com](mailto:aifinlab.sufe@gmail.com)
+如果您对此项目感兴趣并希望参与贡献或开展研究合作，请将您的简历/简介发送至：
+📩 **[aifinlab.sufe@gmail.com](mailto:aifinlab.sufe@gmail.com)** 并同时抄送 (CC) 至：
+📧 **[zhang.liwen@shufe.edu.cn](mailto:zhang.liwen@shufe.edu.cn)**
+
+期待你的加入！
 
 ### 关于 QuantaAlpha
 
