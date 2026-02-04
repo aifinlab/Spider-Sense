@@ -89,7 +89,7 @@ Spider-Sense protects four security-critical stages using specialized defense ta
 
 ## 📊 S<sup>2</sup>Bench
 
-To facilitate rigorous evaluation, we introduce **S2Bench**, a lifecycle-aware benchmark featuring:
+To facilitate rigorous evaluation, we introduce **S<sup>2</sup>Bench**, a lifecycle-aware benchmark featuring:
 
 * **Multi-stage Attacks**: Covers Query, Plan, Action, and Observation stages.
 * **Realistic Tool Execution**: Involves actual tool selection and parameter generation (approx. 300 functions).
