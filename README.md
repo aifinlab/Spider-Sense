@@ -87,7 +87,7 @@ Spider-Sense protects four security-critical stages using specialized defense ta
 
 ---
 
-## 📊 S2Bench Benchmark
+## 📊 $S^2$Bench Benchmark
 
 To facilitate rigorous evaluation, we introduce **S2Bench**, a lifecycle-aware benchmark featuring:
 
