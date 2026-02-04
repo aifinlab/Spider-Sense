@@ -14,7 +14,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
   <br>
   <br>
-  <b href="./README.md">English</b> | <a href="./README_ch.md">简体中文</a>
+  <a href="./README.md">English</a> | <a href="./README_ch.md">简体中文</a>
 </p>
 
 <p align="center">
