@@ -276,8 +276,14 @@ If you use Spider-Sense or S2Bench in your research, please cite our paper:
 
 This work was supported by the **AIFin Lab** and the **QuantaAlpha**.
 ### About AIFin Lab
-Initiated by Professor Liwen Zhang from Shanghai University of Finance and Economics (SUFE), **AIFin Lab** is deeply rooted in the interdisciplinary fields of **AI + Finance, Statistics, and Data Science**. The team brings together cutting-edge scholars from top institutions such as SUFE, FDU, SEU, CMU, and CUHK. We are dedicated to building a comprehensive "full-link" system covering data, models, benchmarks, and intelligent prompting. We warmly welcome interested students to join us! 🤝  
-**Email:** [aifinlab.sufe@gmail.com](mailto:aifinlab.sufe@gmail.com)
+Initiated by Professor Liwen Zhang from Shanghai University of Finance and Economics (SUFE), **AIFin Lab** is deeply rooted in the interdisciplinary fields of **AI + Finance, Statistics, and Data Science**. The team brings together cutting-edge scholars from top institutions such as SUFE, FDU, SEU, CMU, and CUHK. We are dedicated to building a comprehensive "full-link" system covering data, models, benchmarks, and intelligent prompting. We are actively looking for talented students (UG/Master/PhD) and researchers worldwide who are passionate about AI Agent security and financial intelligence to join **AIFinLab**!
+
+If you are interested in contributing to this project or exploring research collaborations, please send your CV/introduction to:
+📩 **[aifinlab.sufe@gmail.com](mailto:aifinlab.sufe@gmail.com)**
+and CC to:
+📧 **[zhang.liwen@shufe.edu.cn](mailto:zhang.liwen@shufe.edu.cn)**
+
+We look forward to hearing from you!
 
 ### About QuantaAlpha
 Founded in April 2025, **QuantaAlpha** is composed of professors, postdoctoral researchers, PhDs, and Master's students from prestigious universities including THU, PKU, CAS, CMU, and HKUST. Our mission is to explore the "Quanta" of intelligence and lead the "Alpha" frontier of agent research—ranging from CodeAgents and self-evolving intelligence to financial and cross-domain specialized agents—dedicated to reshaping the boundaries of artificial intelligence.
