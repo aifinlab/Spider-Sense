@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ Spider-Sense
+# <img src="./images/spider_icon.png" width="32" style="vertical-align: middle;"> Spider-Sense
 
 <p align="center">
   <strong>Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening</strong>
