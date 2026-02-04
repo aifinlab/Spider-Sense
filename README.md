@@ -12,7 +12,7 @@
   <a href="https://huggingface.co/datasets/aifinlab/S2Bench"><img src="https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg" alt="Benchmark"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
-  <a href="./README_ch.md"><img src="https://img.shields.io/badge/README-ch-md-pink.svg" alt="README-ch"></a>
+  <a href="./README_ch.md"><img src="https://img.shields.io/badge/Language-中文版-db7093.svg" alt="Chinese"></a>
 </p>
 
 <p align="center">
