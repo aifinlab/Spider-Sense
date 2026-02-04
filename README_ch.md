@@ -3,7 +3,8 @@
 
 <div align="center">
 
-# 🕷️ Spider-Sense
+# <img src="./images/spider_icon2.png" width="60" style="vertical-align: text-bottom;"> Spider-Sense
+
 
 <p align="center">
   <strong>基于内源性风险感知与分层自适应筛选的高效智能体防御框架</strong>
