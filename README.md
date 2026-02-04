@@ -272,13 +272,13 @@ If you use Spider-Sense or S2Bench in your research, please cite our paper:
 
 ## 🙏 Acknowledgments
 
-This work was supported by the **QuantAlpha** and the **AIFin Lab**.
+This work was supported by the **AIFin Lab** and the **QuantaAlpha**.
 ### About AIFin Lab
-Initiated by Professor Liwen Zhang from Shanghai University of Finance and Economics (SUFE), **AIFin Lab** is deeply rooted in the interdisciplinary fields of **AI + Finance, Statistics, and Data Science**. The team brings together cutting-edge scholars from top institutions such as SUFE, Fudan University, Southeast University, CMU, and CUHK. We are dedicated to building a comprehensive "full-link" system covering data, models, benchmarks, and intelligent prompting. We warmly welcome interested students to join us! 🤝  
+Initiated by Professor Liwen Zhang from Shanghai University of Finance and Economics (SUFE), **AIFin Lab** is deeply rooted in the interdisciplinary fields of **AI + Finance, Statistics, and Data Science**. The team brings together cutting-edge scholars from top institutions such as SUFE, FDU, SEU, CMU, and CUHK. We are dedicated to building a comprehensive "full-link" system covering data, models, benchmarks, and intelligent prompting. We warmly welcome interested students to join us! 🤝  
 **Email:** [aifinlab.sufe@gmail.com](mailto:aifinlab.sufe@gmail.com)
 
 ### About QuantaAlpha
-Founded in April 2025, **QuantaAlpha** is composed of professors, postdoctoral researchers, PhDs, and Master's students from prestigious universities including Tsinghua, Peking University, CAS, CMU, and HKUST. Our mission is to explore the "Quanta" of intelligence and lead the "Alpha" frontier of agent research—ranging from CodeAgents and self-evolving intelligence to financial and cross-domain specialized agents—dedicated to reshaping the boundaries of artificial intelligence.
+Founded in April 2025, **QuantaAlpha** is composed of professors, postdoctoral researchers, PhDs, and Master's students from prestigious universities including THU, PKU, CAS, CMU, and HKUST. Our mission is to explore the "Quanta" of intelligence and lead the "Alpha" frontier of agent research—ranging from CodeAgents and self-evolving intelligence to financial and cross-domain specialized agents—dedicated to reshaping the boundaries of artificial intelligence.
 
 In 2026, we will continue to produce high-quality research results in areas such as **CodeAgent** (end-to-end autonomous execution of real-world tasks), **DeepResearch**, **Agentic Reasoning/Agentic RL**, and **Self-Evolution & Collaborative Learning**. We welcome students interested in our research directions to join us!  
 **Team Homepage:** [https://quantaalpha.github.io/](https://quantaalpha.github.io/)
