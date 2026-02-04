@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/arXiv-2601.xxxxx-b31b1b.svg" alt="arXiv"></a>
+  <a href="./SpiderSense-paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/aifinlab/S2Bench"><img src="https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg" alt="Benchmark"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
