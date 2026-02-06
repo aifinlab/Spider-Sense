@@ -10,16 +10,18 @@
   <strong>基于内源性风险感知与分层自适应筛选的高效智能体防御框架</strong>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-2601.xxxxx-b31b1b.svg" alt="arXiv"></a>
-  <a href="./SpiderSense-paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white" alt="Paper"></a>
-  <a href="https://huggingface.co/datasets/aifinlab/S2Bench"><img src="https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg" alt="Benchmark"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
-  <br>
-  <br>
-  <a href="./README.md">English</a> | <a href="./README_ch.md">简体中文</a>
-</p>
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2602.05386)
+[![Paper](https://img.shields.io/badge/Paper-HF-orange.svg?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://huggingface.co/papers/2602.05386)
+[![S2Bench](https://img.shields.io/badge/Dataset-S2Bench-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/aifinlab/S2Bench)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge)](#)
+
+<br>
+
+[English](./README.md) | [简体中文](./README_ch.md)
+
+</div>
 
 <p align="center">
   <em>一个事件驱动的防御框架，允许智能体保持潜在警惕，仅在感知到风险时触发防御。</em>
