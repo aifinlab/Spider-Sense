@@ -6,7 +6,7 @@
   <strong>Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://arxiv.org/abs/2602.05386"><img src="https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg" alt="arXiv"></a>
   <a href="./SpiderSense-paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white" alt="Paper"></a>
   <a href="https://huggingface.co/datasets/aifinlab/S2Bench"><img src="https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg" alt="Benchmark"></a>
@@ -15,7 +15,20 @@
   <br>
   <br>
   <a href="./README.md">English</a> | <a href="./README_ch.md">简体中文</a>
-</p>
+</p> -->
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2602.05386)
+[![Paper](https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](./SpiderSense-paper.pdf)
+[![S2Bench](https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/aifinlab/S2Bench)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge)](#)
+
+<br>
+
+[English](./README.md) | [简体中文](./README_ch.md)
+
+</div>
 
 <p align="center">
   <em>An event-driven defense framework allowing agents to maintain latent vigilance and trigger defenses only upon risk perception.</em>
