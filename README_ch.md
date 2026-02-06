@@ -261,16 +261,19 @@ python scripts/run_stage_4_parallel.py \
 
 ## 📖 引用
 
-如果您在研究中使用了 Spider-Sense 或 S2Bench，请引用我们的论文：
+如果您在研究中使用了 Spider-Sense 或 S<sup>2</sup>Bench，请引用我们的论文：
 
 **Code snippet**
 
 ```
-@article{yu2026spidersense,
-  title={Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening},
-  author={Zhenxiong Yu and Zhi Yang and Zhiheng Jin and Shuhe Wang and Heng Zhang and Yanlin Fei and Lingfeng Zeng and Fangqi Lou and Shuo Zhang and Tu Hu and Jingping Liu and Rongze Chen and Xingyu Zhu and Kunyi Wang and Chaofa Yuan and Xin Guo and Zhaowei Liu and Feipeng Zhang and Jie Huang and Huacan Wang and Ronghao Chen and Liwen Zhang},
-  journal={arXiv preprint arXiv:2601.xxxxx},
-  year={2026}
+@misc{yu2026spidersenseintrinsicrisksensing,
+      title={Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening}, 
+      author={Zhenxiong Yu and Zhi Yang and Zhiheng Jin and Shuhe Wang and Heng Zhang and Yanlin Fei and Lingfeng Zeng and Fangqi Lou and Shuo Zhang and Tu Hu and Jingping Liu and Rongze Chen and Xingyu Zhu and Kunyi Wang and Chaofa Yuan and Xin Guo and Zhaowei Liu and Feipeng Zhang and Jie Huang and Huacan Wang and Ronghao Chen and Liwen Zhang},
+      year={2026},
+      eprint={2602.05386},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2602.05386}, 
 }
 ```
 
