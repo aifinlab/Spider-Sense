@@ -259,7 +259,7 @@ python scripts/run_stage_4_parallel.py \
 
 ## 📖 Citation
 
-If you use Spider-Sense or S2Bench in your research, please cite our paper:
+If you use Spider-Sense or S<sup>2</sup>Bench in your research, please cite our paper:
 
 ```bibtex
 @misc{yu2026spidersenseintrinsicrisksensing,
