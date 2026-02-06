@@ -6,16 +6,7 @@
   <strong>Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening</strong>
 </p>
 
-<!-- <p align="center">
-  <a href="https://arxiv.org/abs/2602.05386"><img src="https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg" alt="arXiv"></a>
-  <a href="./SpiderSense-paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white" alt="Paper"></a>
-  <a href="https://huggingface.co/datasets/aifinlab/S2Bench"><img src="https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg" alt="Benchmark"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python"></a> 
-  <br>
-  <br>
-  <a href="./README.md">English</a> | <a href="./README_ch.md">简体中文</a>
-</p> -->
+
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2602.05386)
