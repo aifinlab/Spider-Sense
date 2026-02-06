@@ -38,7 +38,7 @@
 
 As large language models (LLMs) evolve into autonomous agents, most existing defense mechanisms adopt a **mandatory checking paradigm**, which forcibly triggers security validation at predefined stages regardless of actual risk. This approach leads to high latency and computational redundancy.
 
-We propose **Spider-Sense**, an event-driven defense framework based on **Intrinsic Risk Sensing (IRS)**. It allows agents to maintain **latent vigilance** and trigger defenses only upon risk perception. Once triggered, Spider-Sense invokes a **Hierarchical Adaptive Screening (HAC)** mechanism that trades off efficiency and precision: resolving known patterns via lightweight similarity matching while escalating ambiguous cases to deep internal reasoning.
+We propose **Spider-Sense**, an event-driven defense framework based on **Intrinsic Risk Sensing (IRS)**. It allows agents to maintain **latent vigilance** and trigger defenses only upon risk perception. Once triggered, Spider-Sense invokes a **Hierarchical Adaptive Screening (HAS)** mechanism that trades off efficiency and precision: resolving known patterns via lightweight similarity matching while escalating ambiguous cases to deep internal reasoning.
 
 ---
 
@@ -72,7 +72,7 @@ The framework operates on a **Detect-Audit-Respond** cycle:
 
 1. **Intrinsic Risk Sensing (IRS)**: The agent maintains a latent state of vigilance. It continuously monitors artifacts across four stages (Query, Plan, Action, Observation).
 2. **Sensing Indicator**: Upon perceiving a risk, the agent generates a specific indicator (e.g., `<|verify_user_intent|>`), pausing execution.
-3. **Hierarchical Adaptive Screening (HAC)**:
+3. **Hierarchical Adaptive Screening (HAS)**:
    * **Coarse-grained Detection**: Fast vector matching against a database of known attack patterns.
    * **Fine-grained Analysis**: Deep reasoning by an LLM for ambiguous or low-similarity cases.
 4. **Autonomous Decision**: The agent decides to **Resume** execution (if safe) or **Refuse/Sanitize** (if unsafe).
@@ -122,7 +122,7 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 
 ### Ablation Studies
 
-<!-- [Insert Figure 3 & 4 Here: Ablation Study on IRS and HAC] -->
+<!-- [Insert Figure 3 & 4 Here: Ablation Study on IRS and HAS] -->
 
 <div align="center">
 <img src="images/fig3_tag_ablation.png" alt="Ablation Study 1" width="375px" />
@@ -130,7 +130,7 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 </div>
 
 * **IRS Importance**: Removing sensing at any stage leads to significant ASR proliferation, especially at the Action stage.
-* **HAC Balance**: Combining coarse detection and fine analysis yields the best trade-off between safety and efficiency.
+* **HAS Balance**: Combining coarse detection and fine analysis yields the best trade-off between safety and efficiency.
 
 ---
 
@@ -146,7 +146,7 @@ Spider-Sense achieves state-of-the-art defense performance with minimal latency 
 
 1. **Attack**: The tool return content is poisoned with injected code `import fake_module` to induce unauthorized execution.
 2. **Detection**: The agent's IRS activates the sensing indicator `<|sanitize_observation|>`.
-3. **HAC Screening**: The content is routed to the inspector. It is identified as contextually unjustified.
+3. **HAS Screening**: The content is routed to the inspector. It is identified as contextually unjustified.
 4. **Response**: The agent autonomously terminates execution, intercepting the attack.
 
 ---
