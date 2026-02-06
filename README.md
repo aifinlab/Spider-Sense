@@ -19,9 +19,8 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.05386-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2602.05386)
-[![Paper](https://img.shields.io/badge/Paper-PDF-orange.svg?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](./SpiderSense-paper.pdf)
-[![S2Bench](https://img.shields.io/badge/Huggingface-S2Bench-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/aifinlab/S2Bench)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-HF-orange.svg?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://huggingface.co/papers/2602.05386)
+[![S2Bench](https://img.shields.io/badge/Dataset-S2Bench-yellow.svg?style=for-the-badge)](https://huggingface.co/datasets/aifinlab/S2Bench)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge)](#)
 
 <br>
